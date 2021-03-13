@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Navigator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#009688</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>
